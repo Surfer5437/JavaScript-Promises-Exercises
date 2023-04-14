@@ -3,6 +3,7 @@
     place-self: center;
 }
 body {
+    background-color: green;
     display: grid;
     height: 100vh;
     left:1em;
