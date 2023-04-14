@@ -1,0 +1,9 @@
+.center{
+    position: absolute;
+    place-self: center;
+}
+body {
+    display: grid;
+    height: 100vh;
+    left:1em;
+  }
